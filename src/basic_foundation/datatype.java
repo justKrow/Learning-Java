@@ -1,3 +1,5 @@
+package basic_foundation;
+
 public class datatype {
     public static void main(String[] args) {
         int studentAge = 12;

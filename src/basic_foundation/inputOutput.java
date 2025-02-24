@@ -1,3 +1,5 @@
+package basic_foundation;
+
 import java.util.Scanner;
 
 public class inputOutput {
