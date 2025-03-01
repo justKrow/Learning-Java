@@ -1,6 +1,7 @@
 package classes;
 
 public class triangle {
+    static int numOfSides = 3;
     double base;
     double height;
     double sideLenOne;
